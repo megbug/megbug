@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello there
 
-<!--
-**megbug/megbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm meghub - junior fullstack developer
 
-Here are some ideas to get you started:
+I am currently working on my coding skills (MERN-Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One goal for the future is to be part of the opensource community
+
+### Scrolling through my repositories, i hope you find some:
+- improvements through my learning journey,
+- a little bit of entertainment
+- maybe even well coded projects?  _I'm always open for feedback!_
+
+I enjoy collaborating, if there is anything i can help you with: Let me know!
+
+### Random fact about me:
+
+- I like ramen, puzzles and debugging
